@@ -24,7 +24,7 @@ bool test(char* String)
     }
 }
 int main() {
-
+    printf ("hi this is a new text");
     printf("String: ");
     scanf("%s", String);
     printf("%d\n", test(String));
